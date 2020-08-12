@@ -1349,8 +1349,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -408,
-      "y": 277
+      "x": 211,
+      "y": 316
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -1383,11 +1383,11 @@
         "__id__": 36
       }
     ],
-    "textRotation": 0,
-    "zStep": 1,
+    "textRotation": 180,
+    "zStep": -1,
     "gap": {
       "__type__": "cc.Vec2",
-      "x": 10,
+      "x": -12,
       "y": 0
     },
     "tilePrefab": {
@@ -1398,42 +1398,42 @@
     "__type__": "Peng",
     "tileTextures": [
       {
-        "__uuid__": "e4c96a4b-5949-4598-bfab-a58fbf989b6a"
+        "__uuid__": "7f2fcb8f-8710-4b6d-a8c5-4b7b2af0284e"
       },
       {
-        "__uuid__": "15a9782b-05d5-4642-99ca-6418ceff65c4"
+        "__uuid__": "acddacaf-f658-4214-b886-189733d1de13"
       },
       {
-        "__uuid__": "f72b392f-c78c-4068-896e-0a3db206d9ba"
+        "__uuid__": "bff63e3c-63a9-49ad-91c9-da595b4dcda1"
       }
     ],
     "tileText": {
-      "__uuid__": "def3f6cb-b7bc-41ad-b3c0-988f77993c1e"
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
     },
     "textPos": {
       "__type__": "cc.Vec2",
-      "x": -2,
-      "y": 8.5
+      "x": 0.5,
+      "y": 15.7
     },
     "textStartSkew": {
       "__type__": "cc.Vec2",
-      "x": 12,
+      "x": -4,
       "y": 0
     },
     "skewStep": {
       "__type__": "cc.Vec2",
-      "x": -0.5,
+      "x": 0.5,
       "y": 0
     },
     "textScale": {
       "__type__": "cc.Vec2",
-      "x": 0.5,
-      "y": 0.43
+      "x": 0.67,
+      "y": 0.37
     },
     "textScaleStep": 1,
     "tileStep": {
       "__type__": "cc.Vec2",
-      "x": 39,
+      "x": -33,
       "y": 0
     }
   },
@@ -1441,111 +1441,108 @@
     "__type__": "Peng",
     "tileTextures": [
       {
-        "__uuid__": "7cda324b-37a8-4b09-94f1-4d29186b6278"
+        "__uuid__": "3f0bbb4a-65e7-45ea-ad7e-c914a6fd7db7"
       },
       {
-        "__uuid__": "4fbe0c7a-74c1-4062-9bfa-b653076ce8f1"
+        "__uuid__": "acddacaf-f658-4214-b886-189733d1de13"
       },
       {
-        "__uuid__": "4f1cfb4a-d739-440b-9e32-2d0c22bf2337"
+        "__uuid__": "bff63e3c-63a9-49ad-91c9-da595b4dcda1"
       }
     ],
     "tileText": {
-      "__uuid__": "0e3da671-a049-411f-8065-d9ada1a15edd"
-    },
-    "textPos": {
-      "__type__": "cc.Vec2",
-      "x": -1,
-      "y": 8.5
-    },
-    "textStartSkew": {
-      "__type__": "cc.Vec2",
-      "x": 11,
-      "y": 0
-    },
-    "skewStep": {
-      "__type__": "cc.Vec2",
-      "x": -0.5,
-      "y": 0
-    },
-    "textScale": {
-      "__type__": "cc.Vec2",
-      "x": 0.5,
-      "y": 0.43
-    },
-    "textScaleStep": 1,
-    "tileStep": {
-      "__type__": "cc.Vec2",
-      "x": 39,
-      "y": 0
-    }
-  },
-  {
-    "__type__": "Peng",
-    "tileTextures": [
-      {
-        "__uuid__": "65d42f7f-8b2a-4be6-b3a7-2c7e2c095a14"
-      },
-      {
-        "__uuid__": "0a2e84d2-f3ef-40d0-8b22-f27999614854"
-      },
-      {
-        "__uuid__": "8bcd231e-b4dc-42c3-8804-66223b092212"
-      }
-    ],
-    "tileText": {
-      "__uuid__": "e7e3dcb6-fae9-468d-8af4-a0789dbaf879"
-    },
-    "textPos": {
-      "__type__": "cc.Vec2",
-      "x": -1,
-      "y": 8.5
-    },
-    "textStartSkew": {
-      "__type__": "cc.Vec2",
-      "x": 10,
-      "y": 0
-    },
-    "skewStep": {
-      "__type__": "cc.Vec2",
-      "x": -0.5,
-      "y": 0
-    },
-    "textScale": {
-      "__type__": "cc.Vec2",
-      "x": 0.5,
-      "y": 0.43
-    },
-    "textScaleStep": 1,
-    "tileStep": {
-      "__type__": "cc.Vec2",
-      "x": 39,
-      "y": 0
-    }
-  },
-  {
-    "__type__": "Peng",
-    "tileTextures": [
-      {
-        "__uuid__": "58da8e6c-32f7-4e84-8c31-e1ae134c71e7"
-      },
-      {
-        "__uuid__": "2213b60b-691d-4179-a89e-db2e916a62a3"
-      },
-      {
-        "__uuid__": "9e9c5eba-00ce-4390-af4a-b0524fd9cdcb"
-      },
-      {
-        "__uuid__": "41f598b5-00e0-4294-9aba-af6edc85187c"
-      }
-    ],
-    "tileText": {
-      "__uuid__": "41d52984-561e-4a30-aba0-43a892a02595"
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
     },
     "textPos": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": 8.5
+      "y": 15.6
+    },
+    "textStartSkew": {
+      "__type__": "cc.Vec2",
+      "x": -0.5,
+      "y": 0
+    },
+    "skewStep": {
+      "__type__": "cc.Vec2",
+      "x": -0.5,
+      "y": 0
+    },
+    "textScale": {
+      "__type__": "cc.Vec2",
+      "x": 0.67,
+      "y": 0.37
+    },
+    "textScaleStep": 1,
+    "tileStep": {
+      "__type__": "cc.Vec2",
+      "x": -33,
+      "y": 0
+    }
+  },
+  {
+    "__type__": "Peng",
+    "tileTextures": [
+      {
+        "__uuid__": "0954c8ce-e1ee-4ea8-a918-4e9a3fe236f0"
+      },
+      {
+        "__uuid__": "4388782f-cbcd-4f60-adf9-1367add60e5e"
+      },
+      {
+        "__uuid__": "3f0bbb4a-65e7-45ea-ad7e-c914a6fd7db7"
+      }
+    ],
+    "tileText": {
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
+    },
+    "textPos": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 15.6
+    },
+    "textStartSkew": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0
+    },
+    "skewStep": {
+      "__type__": "cc.Vec2",
+      "x": -0.5,
+      "y": 0
+    },
+    "textScale": {
+      "__type__": "cc.Vec2",
+      "x": 0.67,
+      "y": 0.37
+    },
+    "textScaleStep": 1,
+    "tileStep": {
+      "__type__": "cc.Vec2",
+      "x": -33,
+      "y": 0
+    }
+  },
+  {
+    "__type__": "Peng",
+    "tileTextures": [
+      {
+        "__uuid__": "bff63e3c-63a9-49ad-91c9-da595b4dcda1"
+      },
+      {
+        "__uuid__": "acddacaf-f658-4214-b886-189733d1de13"
+      },
+      {
+        "__uuid__": "7f2fcb8f-8710-4b6d-a8c5-4b7b2af0284e"
+      }
+    ],
+    "tileText": {
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
+    },
+    "textPos": {
+      "__type__": "cc.Vec2",
+      "x": -0.5,
+      "y": 15.7
     },
     "textStartSkew": {
       "__type__": "cc.Vec2",
@@ -1559,19 +1556,19 @@
     },
     "textScale": {
       "__type__": "cc.Vec2",
-      "x": 0.5,
-      "y": 0.43
+      "x": 0.67,
+      "y": 0.37
     },
     "textScaleStep": 1,
     "tileStep": {
       "__type__": "cc.Vec2",
-      "x": 39,
+      "x": -33,
       "y": 0
     }
   },
   {
     "__type__": "cc.Node",
-    "_name": "left_peng",
+    "_name": "l_right_peng",
     "_objFlags": 0,
     "_parent": {
       "__id__": 14
@@ -1585,7 +1582,7 @@
       }
     ],
     "_prefab": null,
-    "_id": "2bB3sZJnBAiqAtv/f+7qpn",
+    "_id": "11+onRqvdJRL+eBQWr97YD",
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
@@ -1607,12 +1604,12 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_scaleX": 1.2,
-    "_scaleY": 1.2,
+    "_scaleX": 1,
+    "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -494,
-      "y": -208
+      "x": -489,
+      "y": -60
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -1630,7 +1627,7 @@
     },
     "_enabled": true,
     "test": true,
-    "direction": 1,
+    "direction": 3,
     "stacks": [
       {
         "__id__": 39
@@ -1649,8 +1646,8 @@
     "zStep": -1,
     "gap": {
       "__type__": "cc.Vec2",
-      "x": 4.5,
-      "y": 10
+      "x": 3.9,
+      "y": 12
     },
     "tilePrefab": {
       "__uuid__": "22e01b12-7b88-4fbf-b6b4-58a19906fc61"
@@ -1660,172 +1657,172 @@
     "__type__": "Peng",
     "tileTextures": [
       {
-        "__uuid__": "f1bd69a5-a81b-4021-938c-ad5d09060e0b"
+        "__uuid__": "913a8855-faa6-4078-9b4e-d93217b0a4f6"
       },
       {
-        "__uuid__": "66759b65-19c5-467e-85db-f12fa0efa518"
+        "__uuid__": "abd33103-3258-41f5-89b9-b5a167c9899d"
       },
       {
-        "__uuid__": "c9cd1ca8-7b5e-42cd-b4c5-4b577b1f8dd7"
+        "__uuid__": "3921c9ec-d211-4539-91fc-7704377162df"
       }
     ],
     "tileText": {
-      "__uuid__": "0e3da671-a049-411f-8065-d9ada1a15edd"
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
     },
     "textPos": {
-      "__type__": "cc.Vec2",
-      "x": 2,
-      "y": 9
-    },
-    "textStartSkew": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": -18
-    },
-    "skewStep": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": -0.9
-    },
-    "textScale": {
-      "__type__": "cc.Vec2",
-      "x": 0.28,
-      "y": 0.36
-    },
-    "textScaleStep": 0.98,
-    "tileStep": {
       "__type__": "cc.Vec2",
       "x": 7.5,
-      "y": 24
+      "y": 15
+    },
+    "textStartSkew": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 15
+    },
+    "skewStep": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0.97
+    },
+    "textScale": {
+      "__type__": "cc.Vec2",
+      "x": 0.7,
+      "y": 0.85
+    },
+    "textScaleStep": 0.97,
+    "tileStep": {
+      "__type__": "cc.Vec2",
+      "x": 11.2,
+      "y": 36
     }
   },
   {
     "__type__": "Peng",
     "tileTextures": [
       {
-        "__uuid__": "b16282fe-09c5-49f1-9f01-ef38e89e8cf4"
+        "__uuid__": "cd644979-af57-4d4b-afe9-750769c36e4b"
       },
       {
-        "__uuid__": "4a9ccea8-e4e4-4206-b897-74e98869e1af"
+        "__uuid__": "5fb6e77c-c2b8-4496-8768-ef222b01649d"
       },
       {
-        "__uuid__": "c5cba3b1-000b-477d-8fde-1992f816f466"
+        "__uuid__": "15cbc629-d0e3-4c59-9880-561fc81cb9d1"
       }
     ],
     "tileText": {
-      "__uuid__": "0e3da671-a049-411f-8065-d9ada1a15edd"
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
     },
     "textPos": {
       "__type__": "cc.Vec2",
-      "x": 2,
-      "y": 9
+      "x": 7.5,
+      "y": 14.8
     },
     "textStartSkew": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -18
+      "y": 15
     },
     "skewStep": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -0.9
+      "y": 0.95
     },
     "textScale": {
       "__type__": "cc.Vec2",
-      "x": 0.29,
-      "y": 0.38
+      "x": 0.64,
+      "y": 0.75
     },
     "textScaleStep": 0.98,
     "tileStep": {
       "__type__": "cc.Vec2",
-      "x": 7,
-      "y": 22
+      "x": 10.5,
+      "y": 30.5
     }
   },
   {
     "__type__": "Peng",
     "tileTextures": [
       {
-        "__uuid__": "c38c8e73-1b81-4226-8e1c-d848b9ff3714"
+        "__uuid__": "808aab40-a893-4b4f-b860-64c90407761e"
       },
       {
-        "__uuid__": "216c432b-4f05-4422-acd2-1e5534ba4814"
+        "__uuid__": "56e9575f-6c67-4266-955e-ed6261eb6b13"
       },
       {
-        "__uuid__": "00e0efc0-a74f-40b3-ae51-a036111fc8da"
+        "__uuid__": "2eddadb3-a22b-4c8e-acf5-9e6760f6a6a8"
       }
     ],
     "tileText": {
-      "__uuid__": "0e3da671-a049-411f-8065-d9ada1a15edd"
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
     },
     "textPos": {
       "__type__": "cc.Vec2",
-      "x": 2,
-      "y": 9
+      "x": 7,
+      "y": 15.2
     },
     "textStartSkew": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -18
+      "y": 13
     },
     "skewStep": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -0.9
+      "y": 0.97
     },
     "textScale": {
       "__type__": "cc.Vec2",
-      "x": 0.29,
-      "y": 0.38
+      "x": 0.54,
+      "y": 0.72
     },
     "textScaleStep": 0.98,
     "tileStep": {
       "__type__": "cc.Vec2",
-      "x": 7,
-      "y": 22
+      "x": 8,
+      "y": 27
     }
   },
   {
     "__type__": "Peng",
     "tileTextures": [
       {
-        "__uuid__": "c7fd3013-f4b7-47c5-b51d-dabf3ccee6ad"
+        "__uuid__": "51825b23-0847-4a9a-afd9-25e9dadf955e"
       },
       {
-        "__uuid__": "70d2f3cb-d7ef-4cb3-bd55-b4dcd45958e8"
+        "__uuid__": "45b2fd52-db40-4cb2-8551-0243cfd5ecd0"
       },
       {
-        "__uuid__": "62f7e727-0cb3-4bac-b6ac-83fe682babfa"
+        "__uuid__": "0e8cfff6-f0a6-48bf-8586-bb551d10f075"
       }
     ],
     "tileText": {
-      "__uuid__": "0e3da671-a049-411f-8065-d9ada1a15edd"
+      "__uuid__": "a30feee9-ba0c-4d46-ac7f-6692f7608cbe"
     },
     "textPos": {
       "__type__": "cc.Vec2",
-      "x": 2,
-      "y": 9
+      "x": 7,
+      "y": 15.8
     },
     "textStartSkew": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -18
+      "y": 12
     },
     "skewStep": {
       "__type__": "cc.Vec2",
       "x": 0,
-      "y": -0.9
+      "y": 0.97
     },
     "textScale": {
       "__type__": "cc.Vec2",
-      "x": 0.28,
-      "y": 0.36
+      "x": 0.42,
+      "y": 0.7
     },
     "textScaleStep": 0.98,
     "tileStep": {
       "__type__": "cc.Vec2",
-      "x": 7,
-      "y": 22
+      "x": 8,
+      "y": 24.5
     }
   },
   {
